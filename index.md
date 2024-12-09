@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Quest Report
 ---
 
 * TOC
@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+I am a high school student learning to code.
 
 ## About My Project
 
-Project description goes here.
+I will be doing 5 Advent of Code problems during the next ten days
 
 [My Final Report](files/finalreport.pdf)
 
