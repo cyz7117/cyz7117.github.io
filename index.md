@@ -12,7 +12,7 @@ I am a high school student learning to code.
 
 ## About My Project
 
-I will be doing 5 Advent of Code problems during the next ten days
+For my final project, I plan to complete five different programming problems from Advent of Code (AoC).
 
 [My Final Report](files/finalreport.pdf)
 
