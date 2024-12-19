@@ -8,7 +8,7 @@ title: Final Quest Report
 
 ## About Me
 
-I am a high school student learning to code.
+I am Kaylee. I am a 11th grade high school student learning to code.
 
 ## About My Project
 
